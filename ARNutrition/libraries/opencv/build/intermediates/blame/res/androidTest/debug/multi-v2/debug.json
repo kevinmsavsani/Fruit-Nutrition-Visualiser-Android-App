@@ -1,0 +1,24 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kevin/FoodUI-master/libraries/opencv/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": []
+        },
+        {
+            "outputFile": "/home/kevin/ARNutrition/libraries/opencv/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": []
+        },
+        {
+            "outputFile": "/home/kevin/Downloads/ARNutrition/libraries/opencv/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": []
+        },
+        {
+            "outputFile": "/home/kevin/Downloads/FoodUI/FoodUI-master/libraries/opencv/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": []
+        },
+        {
+            "outputFile": "/home/kevin/Group11/ARNutrition/libraries/opencv/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": []
+        }
+    ]
+}
